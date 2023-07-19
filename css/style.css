@@ -645,6 +645,13 @@ img {
   gap: 20px;
   padding: 41px 0;
 }
+#food .food-text .food-card div p {
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #2a2a2a;
+  max-width: 255px;
+}
 
 @media screen and (min-width: 840px) {
   #food .food-text h2 {
